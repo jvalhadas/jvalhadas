@@ -1,5 +1,4 @@
-## Hello, I'm
-## João Victor
+## Hello, I'm João Victor
 
 Just your friendly neighborhood DevOps Engineer. With experience in DataOps, MLOps and SecOps, I'm always trying to find better ways to provide clean and safe architectures to the environment I'm working on️!
 
