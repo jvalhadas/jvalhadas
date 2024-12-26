@@ -4,7 +4,7 @@ Just your friendly neighborhood DevOps Engineer. With experience in DataOps, MLO
 
 ### 👨🏻‍💻 About me:
 - 🪙 &nbsp; My latest projects include working with infrastructure for mobile and web blockchain applications.
-- 🚀 &nbsp; I'm also an AWS Certified Cloud Practitioner.
+- 🚀 &nbsp; I'm also an AWS Certified Solutions Architect.
 - 💬 &nbsp; Ask me anything [here](https://github.com/jvalhadas/jvalhadas/issues/1).
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jvalhadas/).
 - 💻 &nbsp; Fun fact: I love designing architectures for data applications.
